@@ -1,5 +1,6 @@
 # hello.c 
-/* Imprimir hello world en pantallla.
+/*
+ * Imprimir hello world en pantallla.
  * Agustin Mayans
  * 14/13/17
  */
